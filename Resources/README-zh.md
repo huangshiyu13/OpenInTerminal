@@ -57,6 +57,10 @@ brew install --cask openinterminal
 <!-- <a href="https://github.com/wcoder"><img src="https://avatars.githubusercontent.com/u/766193?v=4" width="10%" style="border-radius:10px;" /></a> -->
 
 
+## 更新日志 🗒
+
+从 `v2.3.10` 起，完整更新日志维护在 [CHANGELOG.md](../CHANGELOG.md)。
+
 ## 特别感谢 ❤️
 
 感谢所有的贡献者。你们的付出让 OpenInTerminal 更棒了。

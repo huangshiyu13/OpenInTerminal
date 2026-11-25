@@ -63,6 +63,8 @@ Become a sponsor through [GitHub Sponsors](https://github.com/sponsors/Ji4n1ng) 
 
 ## Changes 🗒
 
+For `v2.3.10` and later, see [CHANGELOG.md](./CHANGELOG.md).
+
 <details><summary>show all</summary><br>
 <p><strong>version 2.3.9</strong></p>
 <ul>
