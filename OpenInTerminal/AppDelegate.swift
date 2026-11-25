@@ -29,6 +29,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     func applicationDidFinishLaunching(_ notification: Notification) {
         SharedPreferences.startHost()
         DefaultsManager.shared.firstSetup()
+        LaunchAtLoginManager.reconcileSavedPreference()
         SharedPreferences.publish()
         addObserver()
         terminateOpenInTerminalHelper()
